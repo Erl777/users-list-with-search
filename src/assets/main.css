@@ -1,0 +1,30 @@
+@import './base.css';
+
+#app {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: Montserrat, sans-serif;
+  color: #76787D;
+  font-size: 14px;
+}
+
+.title {
+  display: block;
+  font-size: 16px;
+  color: #333333;
+  font-weight: 600;
+  line-height: 22px;
+}
+
+.title--thin {
+  font-weight: 400;
+}
+
+.info {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 17px;
+  color: #76787D;
+}
